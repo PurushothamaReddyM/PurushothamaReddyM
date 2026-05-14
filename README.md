@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Purushothama
+# 👋 Hello, I'm Purushothama Reddy
 
 💻 Full-Stack Developer | 🧠 Exploring AI & ML | ☁️ Interested in Cloud Technologies | 🚀 Building Real-World Applications
 
