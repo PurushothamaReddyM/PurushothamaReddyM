@@ -6,17 +6,23 @@
 
 # 💡 About Me
 
-I'm a Computer Science student at VIT Chennai passionate about developing scalable applications that combine modern software engineering, machine learning, cloud technologies, and intelligent analytics.
+I'm a Computer Science student at VIT Chennai passionate about building scalable applications that combine software engineering, artificial intelligence, cloud technologies, analytics, and modern deployment systems.
 
-I enjoy building end-to-end systems across healthcare analytics, AI-powered platforms, cloud-native applications, and smart mobile solutions. My projects focus on solving practical real-world problems using data-driven approaches, predictive analytics, and modern deployment technologies.
+My interests include:
+- AI-powered applications
+- Cloud-native systems
+- Full-stack development
+- Predictive analytics
+- Backend engineering
+- Intelligent monitoring platforms
 
-I continuously explore new technologies in machine learning, backend engineering, cloud infrastructure, and system design while improving my problem-solving and development skills through hands-on projects.
+I enjoy developing end-to-end systems that solve practical real-world problems using machine learning, forecasting, automation, and scalable deployment architectures.
 
 ---
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Programming Languages
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -27,7 +33,7 @@ I continuously explore new technologies in machine learning, backend engineering
 
 ---
 
-### 🎨 Frontend
+## 🎨 Frontend Development
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
@@ -35,117 +41,128 @@ I continuously explore new technologies in machine learning, backend engineering
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://vitejs.dev/logo.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### ⚙️ Backend
+## ⚙️ Backend & Cloud Technologies
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-### 🗄️ Database & Cloud
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 🤖 AI / ML & Tools
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🛠️ Tools & Databases
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏥 CareCast – Hospital Resource Forecasting & Anomaly Detection
+## 🌿 AgroScan AI – Cloud-Native Plant Disease Detection Platform
 
-AI-powered healthcare analytics platform developed using Streamlit, Prophet, XGBoost, and Plotly for forecasting hospital resource demand and detecting operational anomalies in real time.
-
-### Highlights
-
-- Forecasting for patients, ICU occupancy, beds, and oxygen demand
-- Residual-based anomaly detection system
-- HRR, HVBP, and HAC healthcare analytics monitoring
-- Real-time dashboard visualization and email alerts
-- Fully deployed cloud-based healthcare analytics platform
-
-🔗 Repository:  
-https://github.com/PurushothamaReddyM/CareCast
-
----
-
-## 🌿 AgroScan AI – Plant Disease Detection Platform
-
-Cloud-native AI platform for plant disease detection built using React, FastAPI, PyTorch, Docker, and AWS. Designed to assist farmers with early crop diagnosis through deep learning-based image classification.
+AI-powered plant disease detection platform built using React, PyTorch, ONNX Runtime, Docker, and AWS serverless infrastructure for scalable crop disease prediction and real-time inference.
 
 ### Highlights
 
-- 38+ plant disease classes supported
-- Achieved 98%+ model accuracy
-- Serverless cloud-native deployment architecture
-- Automated CI/CD deployment pipeline
+- Vision Transformer-based disease classification system
+- 38 plant disease classes supported
+- ONNX-optimized inference pipeline
+- Dockerized AWS Lambda deployment
+- Top-5 confidence prediction visualization
+- Cloud-native AI inference architecture
 
 🔗 Repository:  
 https://github.com/PurushothamaReddyM/Agroscan
 
 ---
 
-## 📍 TrackMe – Smart Location-Based Reminder System
+## 🏥 CareCast – AI-Powered Healthcare Forecasting & Analytics Platform
 
-Location-aware reminder application developed using React Native and geofencing technologies to provide smart reminders and real-time location-triggered notifications.
+Healthcare analytics platform developed using Streamlit, Prophet, XGBoost, and Plotly for forecasting hospital resources, detecting operational anomalies, monitoring healthcare KPIs, and generating automated alerts.
 
 ### Highlights
 
+- Forecasting for patients, ICU occupancy, beds, and oxygen demand
+- Residual-based anomaly detection using Prophet
+- Healthcare KPI monitoring (HRR, HVBP, HAC)
+- Forecast benchmarking using Prophet and XGBoost
+- Real-time dashboard visualization and SMTP alerts
+- Interactive operational analytics dashboard
+
+🔗 Repository:  
+https://github.com/PurushothamaReddyM/CareCast
+
+---
+
+## 🔐 CipherAuth – Secure Multi-Factor Authentication System
+
+Secure authentication platform designed using encryption, OTP verification, and biometric face authentication to enhance login security and protect sensitive user access workflows.
+
+### Highlights
+
+- Multi-factor authentication workflow
+- Face verification and OTP-based login
+- AES-based secure data encryption
+- SHA-based password security
+- Streamlit-powered interactive interface
+- Secure user authentication pipeline
+
+🔗 Repository:  
+https://github.com/PurushothamaReddyM/CipherAuth
+
+---
+
+## 📍 TrackMe – Smart Geofencing & Location Reminder System
+
+React Native geofencing and location-aware reminder application with real-time notifications, background location tracking, and smart location-triggered reminders.
+
+### Highlights
+
+- Real-time GPS location tracking
 - Geofencing-based smart reminders
-- Real-time location alerts
-- Offline reminder support
-- Voice feedback integration
+- Background notification support
+- Interactive location management
+- Mobile-first responsive interface
 
 🔗 Repository:  
 https://github.com/PurushothamaReddyM
 
 ---
 
-## 🔐 AuthSphere – Secure Authentication & User Management System
-
-Secure backend authentication system built using Spring Boot, JWT authentication, and role-based access control for scalable and protected API services.
-
-### Highlights
-
-- JWT authentication & authorization
-- Role-based access control (RBAC)
-- Secure password encryption
-- Scalable backend architecture
-
----
-
 # 📈 Currently Exploring
 
-- ☁️ Cloud-Native Development
+- ☁️ Cloud-Native AI Systems
 - 🤖 Machine Learning Deployment
 - 🏗️ Backend System Design
-- ⚡ DevOps & CI/CD
-- 📊 AI-Powered Analytics Systems
+- ⚡ DevOps & Scalable Architectures
+- 📊 Predictive Analytics Platforms
+- 🚀 AI Inference Optimization
 
 ---
 
@@ -153,17 +170,16 @@ Secure backend authentication system built using Spring Boot, JWT authentication
 
 <p align="left">
 
-<a href="mailto:reddypurushothama257@gmail.com" target="blank">
+<a href="mailto:machupalli.purushoth2023@vitstudent.ac.in" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
-
+&nbsp;
 <a href="https://www.linkedin.com/in/machupalli-purushothama-reddy-8544793b4/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 
 <a href="https://github.com/PurushothamaReddyM" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
