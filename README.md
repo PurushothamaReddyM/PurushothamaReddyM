@@ -1,22 +1,23 @@
 # 👋 Hello, I'm Purushothama Reddy
 
-💻 Full-Stack Developer | 🧠 Exploring AI & ML | ☁️ Interested in Cloud Technologies | 🚀 Building Real-World Applications
+💻 Full-Stack Developer | 🤖 AI & ML Enthusiast | ☁️ Cloud & Backend Development | 🚀 Building Intelligent Real-World Applications
 
 ---
 
 # 💡 About Me
 
-I'm a Computer Science student at VIT Chennai who enjoys developing applications that combine functionality, scalability, and modern technologies.
+I'm a Computer Science student at VIT Chennai passionate about developing scalable applications that combine modern software engineering, machine learning, cloud technologies, and intelligent analytics.
 
-I like working across different domains including web development, backend engineering, AI-powered solutions, and cloud deployment. Most of my projects are focused on solving practical problems and improving user experience through technology.
+I enjoy building end-to-end systems across healthcare analytics, AI-powered platforms, cloud-native applications, and smart mobile solutions. My projects focus on solving practical real-world problems using data-driven approaches, predictive analytics, and modern deployment technologies.
 
-Apart from coding, I enjoy learning new tools, experimenting with ideas, and continuously improving my development and problem-solving skills.
+I continuously explore new technologies in machine learning, backend engineering, cloud infrastructure, and system design while improving my problem-solving and development skills through hands-on projects.
 
 ---
 
 # 🛠️ Tech Stack
 
 ### 💻 Languages
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
@@ -24,7 +25,10 @@ Apart from coding, I enjoy learning new tools, experimenting with ideas, and con
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
 
+---
+
 ### 🎨 Frontend
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 <img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
@@ -33,7 +37,10 @@ Apart from coding, I enjoy learning new tools, experimenting with ideas, and con
 <img src="https://vitejs.dev/logo.svg" width="40" height="40"/>
 </p>
 
+---
+
 ### ⚙️ Backend
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
@@ -41,7 +48,10 @@ Apart from coding, I enjoy learning new tools, experimenting with ideas, and con
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
 
+---
+
 ### 🗄️ Database & Cloud
+
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
@@ -50,49 +60,82 @@ Apart from coding, I enjoy learning new tools, experimenting with ideas, and con
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 </p>
 
-### 🔧 Tools & AI
+---
+
+### 🤖 AI / ML & Tools
+
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🌿 AgroScan AI
+## 🏥 CareCast – Hospital Resource Forecasting & Anomaly Detection
 
-Cloud-native AI platform for plant disease detection built using React, FastAPI, PyTorch, and AWS. Designed to assist farmers with early crop diagnosis through deep learning-based image classification across 38+ disease classes.
+AI-powered healthcare analytics platform developed using Streamlit, Prophet, XGBoost, and Plotly for forecasting hospital resource demand and detecting operational anomalies in real time.
 
-**Highlights**
+### Highlights
+
+- Forecasting for patients, ICU occupancy, beds, and oxygen demand
+- Residual-based anomaly detection system
+- HRR, HVBP, and HAC healthcare analytics monitoring
+- Real-time dashboard visualization and email alerts
+- Fully deployed cloud-based healthcare analytics platform
+
+🔗 Repository:  
+https://github.com/PurushothamaReddyM/CareCast
+
+---
+
+## 🌿 AgroScan AI – Plant Disease Detection Platform
+
+Cloud-native AI platform for plant disease detection built using React, FastAPI, PyTorch, Docker, and AWS. Designed to assist farmers with early crop diagnosis through deep learning-based image classification.
+
+### Highlights
+
+- 38+ plant disease classes supported
 - Achieved 98%+ model accuracy
+- Serverless cloud-native deployment architecture
 - Automated CI/CD deployment pipeline
-- Scalable serverless cloud architecture
+
+🔗 Repository:  
+https://github.com/PurushothamaReddyM/Agroscan
 
 ---
 
-### 🔐 AuthSphere
+## 📍 TrackMe – Smart Location-Based Reminder System
 
-Secure user management and authentication system developed using Spring Boot and JWT-based authorization. Designed to support scalable backend security with role-based access control and protected REST APIs.
+Location-aware reminder application developed using React Native and geofencing technologies to provide smart reminders and real-time location-triggered notifications.
 
-**Highlights**
-- JWT authentication and RBAC
-- Secure password hashing implementation
-- Optimized backend architecture
+### Highlights
 
----
-
-### 📍 TrackMe
-
-Smart location-based reminder application built with React Native and geofencing technologies. Provides real-time alerts, smart reminders, and offline support for improved usability and accessibility.
-
-**Highlights**
-- Geofencing and live location alerts
+- Geofencing-based smart reminders
+- Real-time location alerts
 - Offline reminder support
 - Voice feedback integration
+
+🔗 Repository:  
+https://github.com/PurushothamaReddyM
+
+---
+
+## 🔐 AuthSphere – Secure Authentication & User Management System
+
+Secure backend authentication system built using Spring Boot, JWT authentication, and role-based access control for scalable and protected API services.
+
+### Highlights
+
+- JWT authentication & authorization
+- Role-based access control (RBAC)
+- Secure password encryption
+- Scalable backend architecture
 
 ---
 
@@ -102,23 +145,26 @@ Smart location-based reminder application built with React Native and geofencing
 - 🤖 Machine Learning Deployment
 - 🏗️ Backend System Design
 - ⚡ DevOps & CI/CD
+- 📊 AI-Powered Analytics Systems
 
 ---
 
-
-
 # 🌐 Connect With Me
+
 <p align="left">
 
 <a href="mailto:reddypurushothama257@gmail.com" target="blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
 </a>
+
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/machupalli-purushothama-reddy-8544793b4/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" />
 </a>
+
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://github.com/PurushothamaReddyM" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" />
 </a>
@@ -127,4 +173,4 @@ Smart location-based reminder application built with React Native and geofencing
 
 ---
 
-<h3 align="center">✨ Code • Learn • Build • Repeat ✨</h3>
+<h3 align="center">✨ Build • Learn • Innovate • Repeat ✨</h3>
